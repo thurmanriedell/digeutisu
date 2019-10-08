@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oedaecaifo.agile-assessment.com/sitemap.xml
